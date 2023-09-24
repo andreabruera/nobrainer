@@ -1,0 +1,150 @@
+f001.bmp	Jennifer Lopez	FILM	F
+f002.bmp	Rod Stewart	MUSIC	M
+f003.bmp	Uma Thurman	FILM	F
+f004.bmp	Rowan Atkinson	FILM	M
+f005.bmp	Phoebe Buffay	FILM	F   Lisa Kudrow
+f006.bmp	Nicholas Cage	FILM	M
+f007.bmp	Winona Ryder	FILM	F
+f008.bmp	
+f009.bmp	Gwyneth Paltrow	FILM	F
+f010.bmp	Jim Carrey	FILM	M
+f011.bmp	
+f012.bmp	George Clooney	FILM	M
+f013.bmp	
+f014.bmp	Sean Connery	FILM	M
+f015.bmp	
+f016.bmp	
+f017.bmp	
+f018.bmp	Arnold Schwarzenegger	FILM	M
+f019.bmp	
+f020.bmp	Michael Schumacher	SPORT	M
+f021.bmp	
+f022.bmp	Leonardo Di Caprio	FILM	M
+f023.bmp	
+f024.bmp	
+f025.bmp	
+f026.bmp	Bill Clinton	POLITICS	M
+f027.bmp	
+f028.bmp	
+f029.bmp	
+f030.bmp	
+f031.bmp	
+f032.bmp	Prince William	POLITICS	M
+f033.bmp	Jennifer Aniston	FILM	F
+f034.bmp	Tom Hanks	FILM	M
+f035.bmp	
+f036.bmp	
+f037.bmp	
+f038.bmp	Robert De Niro	FILM	M
+f039.bmp	
+f040.bmp	Richard Gere	FILM	M
+f041.bmp	
+f042.bmp	
+f043.bmp	
+f044.bmp	Pierce Brosnan	FILM	M
+f045.bmp	
+f046.bmp	Paul McCartney	MUSIC	M
+f047.bmp	Madonna Louise Ciccone	MUSIC	F
+f048.bmp	
+f049.bmp	
+f050.bmp	Tom Cruise	FILM	M
+f051.bmp	Kate Moss	FILM	F
+f052.bmp	Joey Tribbiani	FILM	M   Matt LeBlanc
+f053.bmp	Marylin Monroe	FILM	F
+f054.bmp	Mel Gibson	FILM	M
+f055.bmp	
+f056.bmp	Sylvester Stallone	FILM	M
+f057.bmp	Princess Diana	POLITICS	F
+f058.bmp	Kevin Costner	FILM	M
+f059.bmp	
+f060.bmp	Keanu Reeves	FILM	M
+f061.bmp	Margaret Thatcher	POLITICS	F
+f062.bmp	John Travolta	FILM	M
+f063.bmp	
+f064.bmp	John Lennon	MUSIC	M
+f065.bmp	Cameron Diaz	FILM	F
+f066.bmp	Robbie Williams	MUSIC	M
+f067.bmp	
+f068.bmp	John Cleese	FILM	M
+f069.bmp	
+f070.bmp	Harrison Ford	FILM	M
+f071.bmp	
+f072.bmp	Elvis Presley	FILM	M
+f073.bmp	
+f074.bmp	
+f075.bmp	
+f076.bmp	
+f077.bmp	
+f078.bmp	Dustin Hoffman	FILM	M
+f079.bmp	
+f080.bmp	Danny De Vito	FILM	M
+f081.bmp	Julia Roberts	FILM	F
+f082.bmp	Clint Eastwood	FILM	M
+f083.bmp	Jodie Foster	FILM	F
+f084.bmp	
+f085.bmp	Nicole Kidman	FILM	F
+f086.bmp	Brad Pitt	FILM	M
+f087.bmp	
+f088.bmp	Hugh Grant	FILM	M
+f089.bmp	
+f090.bmp	David Beckham	SPORT	M
+f091.bmp	
+f092.bmp	
+f093.bmp	
+f094.bmp	
+f095.bmp	
+f096.bmp	Ronald Reagan	POLITICS	M
+f097.bmp	
+f098.bmp	Ricky Martin	MUSIC	M
+f099.bmp	
+f100.bmp	
+f101.bmp	Hillary Clinton	POLITICS	F
+f102.bmp	
+f103.bmp	
+f104.bmp	
+f105.bmp	
+f106.bmp	Liam Neeson	FILM	M
+f107.bmp	
+f108.bmp	
+f109.bmp	Monica Geller	FILM	F   Courteney Cox
+f110.bmp	Austin Powers	FILM	M   Myke Myers
+f111.bmp	
+f112.bmp	
+f113.bmp	
+f114.bmp	Noel Gallagher	MUSIC	M
+f115.bmp	
+f116.bmp	
+f117.bmp	Ewan McGregor	FILM	M
+f118.bmp	
+f119.bmp	
+f120.bmp	
+f121.bmp	
+f122.bmp	
+f123.bmp	
+f124.bmp	
+f125.bmp	Jeremy Irons	FILM	M
+f126.bmp	
+f127.bmp	Kevin Spacey	FILM	M
+f128.bmp	
+f129.bmp	Britney Spears	MUSIC	F
+f130.bmp	
+f131.bmp	Prince Charles	POLITICS	M
+f132.bmp	
+f133.bmp	Robin Williams	FILM	M
+f134.bmp	
+f135.bmp	
+f136.bmp	
+f137.bmp	Woody Allen	FILM	M
+f138.bmp	
+f139.bmp	Judi Dench	FILM	F
+f140.bmp	
+f141.bmp	
+f142.bmp	
+f143.bmp	Liv Tyler	FILM	F
+f144.bmp	Meryl Streep	FILM	F
+f145.bmp	
+f146.bmp	
+f147.bmp	
+f148.bmp	
+f149.bmp	
+f150.bmp	Whoopi Goldberg	FILM	F
