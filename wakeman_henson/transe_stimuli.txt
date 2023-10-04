@@ -8,9 +8,9 @@ f007.bmp	Winona Ryder	FILM	F
 f008.bmp	
 f009.bmp	Gwyneth Paltrow	FILM	F
 f010.bmp	Jim Carrey	FILM	M
-f011.bmp	
+f011.bmp	Mariah Carey
 f012.bmp	George Clooney	FILM	M
-f013.bmp	
+f013.bmp	Sandra Bullock
 f014.bmp	Sean Connery	FILM	M
 f015.bmp	
 f016.bmp	
